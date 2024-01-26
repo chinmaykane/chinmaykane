@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chinmaykane
-- 👀 I’m interested in ...optimization using Python
+- 👀 I’m interested in ...data science and machine learning
 - 🌱 I’m currently learning ...algorithms and data structures
-- 💞️ I’m looking to collaborate on ... optimization projects
+- 💞️ I’m looking to collaborate on ... machine learning projects
 - 📫 How to reach me ... chinmaykane2003@gmail.com
 
 <!---
